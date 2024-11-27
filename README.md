@@ -6,6 +6,8 @@ Are you ready for an exhilarating adventure that will test your reflexes and str
 - [Product Hunt](https://www.producthunt.com/@escape_road)
 - [Our Quora](https://www.quora.com/profile/Road-Escape-1)
 
+<a href="https://www.producthunt.com/posts/escape-road?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-escape&#0045;road" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=654140&theme=light" alt="Escape&#0032;Road - A&#0032;heart&#0045;pounding&#0044;&#0032;adrenaline&#0045;fueled&#0032;racing&#0032;chase&#0032;game | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
 ![escape-road](public/1024x768.png)
 
 ## What is Escape Road?
