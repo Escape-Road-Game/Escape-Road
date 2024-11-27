@@ -1,5 +1,3 @@
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XPoHT14VeGM?si=gm3IoDSDBoY5PTzR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 # Escape Road: The Ultimate HTML Game Experience
 
 Are you ready for an exhilarating adventure that will test your reflexes and strategic thinking? Look no further than **Escape Road**, a thrilling HTML game that promises hours of fun and excitement. You can play this captivating game at [https://escape-road.fun](https://escape-road.fun).
