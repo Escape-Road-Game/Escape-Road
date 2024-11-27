@@ -51,3 +51,5 @@ Whether you're a seasoned gamer or new to HTML games, **Escape Road** offers som
 So why wait? Dive into the world of **Escape Road** today at [https://escape-road.fun](https://escape-road.fun) and experience the thrill for yourself!
 
 
+## Related resources
+- [A](https://ryin.info/escape-road.fun)
