@@ -5,6 +5,8 @@ Are you ready for an exhilarating adventure that will test your reflexes and str
 - [Youtube Channel](https://www.youtube.com/@EscapeRoadGame)
 - [Our Quora](https://www.quora.com/profile/Road-Escape-1)
 
+![escape-road](public/1024x768.png)
+
 ## What is Escape Road?
 
 **Escape Road** is an engaging HTML5 game designed for players of all ages. It combines elements of racing, obstacle navigation, and puzzle-solving into a seamless gaming experience. The objective is simple: navigate through a series of challenging roads while avoiding obstacles and collecting rewards. With its vibrant graphics and intuitive controls, **Escape Road** is perfect for casual gamers looking for a quick escape from reality.
