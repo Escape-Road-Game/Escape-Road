@@ -2,8 +2,8 @@
 
 Are you ready for an exhilarating adventure that will test your reflexes and strategic thinking? Look no further than **Escape Road**, a thrilling HTML game that promises hours of fun and excitement. You can play this captivating game at [https://escape-road.fun](https://escape-road.fun).
 
-- Youtube Channel: [Escape Road Game](https://www.youtube.com/@EscapeRoadGame)
-- Quora: [Escape Road](https://www.quora.com/profile/Road-Escape-1)
+- [Youtube Channel](https://www.youtube.com/@EscapeRoadGame)
+- [Our Quora](https://www.quora.com/profile/Road-Escape-1)
 
 ## What is Escape Road?
 
