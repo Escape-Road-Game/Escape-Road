@@ -54,4 +54,4 @@ So why wait? Dive into the world of **Escape Road** today at [https://escape-roa
 
 
 ## Related resources
-- [A](https://ryin.info/escape-road.fun)
+- [A](https://ryin.info/escape-road.fun), [B](https://siapabilang.com/Road-Escape)
